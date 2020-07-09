@@ -1,7 +1,8 @@
-### Kevin Wan
+### About Me - Kevin Wan
+
 ---
 
-#### 👋 Hi! I'm Kevin, a font end deverlpoer 
+#### 👋 Hi! I'm Kevin. I am a font-end developer. Now I'm working in Shanghai China.  
 
 
 <!--
