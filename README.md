@@ -2,7 +2,7 @@
 
 ---
 
-#### 👋 Hi! I'm Kevin. I am a font-end developer. Now I'm working in Shanghai China.  
+#### 👋 Hi! I'm Kevin. I am a front-end developer. Now I'm working in Shanghai China.  
 
 
 <!--
